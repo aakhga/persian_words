@@ -1,0 +1,34 @@
+[
+    {
+        "english-word": "abnormal",
+        "persian-word": "غیر طبیعی",
+        "english-meaning": "Not normal. Behavior that breaches the rule or etiquette or custom or morality.",
+        "persian-meaning": "طبیعی نیست رفتاری که موجب نقض قانون یا قوانین و قوانین یا عرف یا اخلاق می شود.",
+        "english-example": "The demand for tickets had been abnormal, and the committee had to refuse a great number who applied. He is behaving not normal.",
+        "persian-example": "تقاضا برای بلیط غیر طبیعی بود ، و کمیته مجبور به رد تعداد زیادی از درخواست شد. او رفتاری عادی ندارد."
+    },
+    {
+        "english-word": "adequate",
+        "persian-word": "کافی است",
+        "english-meaning": "Satisfactory or acceptable in quality or quantity.",
+        "persian-meaning": "از نظر کیفیت یا کمیت رضایت بخش یا قابل قبول است.",
+        "english-example": "An adequate quantity; a quantity that is large enough to achieve a purpose. Sufficient resources to provide comfort and meet obligations.",
+        "persian-example": "مقدار کافی؛ مقداری که به اندازه کافی بزرگ است برای دستیابی به یک هدف. منابع کافی برای تأمین آسایش و تحقق تعهدات."
+    },
+    {
+        "english-word": "affect",
+        "persian-word": "تاثیر می گذارد",
+        "english-meaning": "Have an effect on someone. Make a difference to something.",
+        "persian-meaning": "روی کسی تأثیر بگذار. برای چیزی فرق کنید.",
+        "english-example": "This regulation does not affect small companies. Changes are permitted as long as they do not affect the contract.",
+        "persian-example": "این آیین نامه بر شرکت های کوچک تأثیر نمی گذارد. تغییرات تا زمانی که در قرارداد تأثیر نگذارند مجاز هستند."
+    },
+    {
+        "english-word": "aggregate",
+        "persian-word": "تاثیر می گذارد",
+        "english-meaning": "Formed or calculated by the combination of several separate elements. Alternative word is total.",
+        "persian-meaning": "با ترکیب چندین عنصر جداگانه تشکیل یا محاسبه می شود. کلمه جایگزین در کل است.",
+        "english-example": "It is important that we identify, measure, aggregate and report problems as well as provide an adequate equity base for the countrys activities.",
+        "persian-example": "این مهم است که مشکلات را شناسایی ، اندازه گیری ، جمع آوری و گزارش دهیم و همچنین یک پایگاه عدالت کافی برای فعالیت های کشور فراهم کنیم."
+    }
+]
