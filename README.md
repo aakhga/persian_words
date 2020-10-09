@@ -4,7 +4,7 @@ Create largest collection of persian words in json format. Feel free to extend t
 ## How to contribute?
 
 Just copy the following and replace the YYY with the relevant words/text:
-
+'''
 {
         "english-word": "YYY",
         "persian-word": "YYY",
@@ -13,9 +13,10 @@ Just copy the following and replace the YYY with the relevant words/text:
         "english-example": "YYY",
         "persian-example": "YYY"
  },
+ '''
  
  Here is an example, how it should look like:
- 
+ '''
  {
         "english-word": "abnormal",
         "persian-word": "غیر طبیعی",
@@ -24,3 +25,4 @@ Just copy the following and replace the YYY with the relevant words/text:
         "english-example": "The demand for tickets had been abnormal, and the committee had to refuse a great number who applied. He is behaving not normal.",
         "persian-example": "تقاضا برای بلیط غیر طبیعی بود ، و کمیته مجبور به رد تعداد زیادی از درخواست شد. او رفتاری عادی ندارد."
  },
+'''
