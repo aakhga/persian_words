@@ -18,11 +18,11 @@ Just copy the following and replace the YYY with the relevant words/text:
  Here is an example, how it should look like:
  ```
  {
-        "english-word": "abnormal",
+        "english-word": "peace",
         "persian-word": "غیر طبیعی",
-        "english-meaning": "Not normal. Behavior that breaches the rule or etiquette or custom or morality.",
-        "persian-meaning": "طبیعی نیست رفتاری که موجب نقض قانون یا قوانین و قوانین یا عرف یا اخلاق می شود.",
-        "english-example": "The demand for tickets had been abnormal, and the committee had to refuse a great number who applied. He is behaving not normal.",
-        "persian-example": "تقاضا برای بلیط غیر طبیعی بود ، و کمیته مجبور به رد تعداد زیادی از درخواست شد. او رفتاری عادی ندارد."
+        "english-meaning": "Freedom from war. A treaty or agreement which brings about the end or stopping of a war.",
+        "persian-meaning": "آزادی از جنگ. پیمان یا توافقی که پایان یا توقف یک جنگ را به همراه داشته باشد.",
+        "english-example": "Does our country want peace or war?",
+        "persian-example": "آیا کشور ما صلح می خواهد یا جنگ؟"
  },
 ```
